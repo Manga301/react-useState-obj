@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="container">
       <h1>
-        Hello {fullName.fName} {fullName.lName}
+        Login: {fullName.fName} {fullName.lName}
       </h1>
       <form>
         <input
